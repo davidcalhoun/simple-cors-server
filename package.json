@@ -2,8 +2,11 @@
 {
     "name": "simple-cors-server",
     "homepage": "https://github.com/davidcalhoun/simple-cors-server",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "main": "server.js",
+    "bin": {
+        "simplecors": "./server.js"
+    },
     "description": "Simple HTTP server with CORS enabled",
     "keywords": [
         "cors",
