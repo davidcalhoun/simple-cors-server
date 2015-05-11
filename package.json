@@ -1,0 +1,37 @@
+
+{
+    "name": "simple-cors-server",
+    "homepage": "https://github.com/davidcalhoun/simple-cors-server",
+    "version": "0.0.1",
+    "main": "server.js",
+    "description": "Simple HTTP server with CORS enabled",
+    "keywords": [
+        "cors",
+        "simple",
+        "http",
+        "server",
+        "static"
+    ],
+    "author": "david.b.calhoun@gmail.com",
+    "contributors": [
+        {
+            "name": "",
+            "email": ""
+        }
+    ],
+    "bugs": {
+        "url": "https://github.com/davidcalhoun/simple-cors-server/issues"
+    },
+    "license": "MIT",
+    "dependencies": {
+        "express": "*",
+        "request": "*"
+    },
+    "devDependencies": {
+    },
+    "scripts": {
+    },
+    "engines": {
+        "node": ">=0.10.25"
+    }
+}
